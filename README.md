@@ -19,6 +19,7 @@ designed to address this issue through the use of an AI-powered parametric insur
 platform that automatically compensates gig workers for lost income due to uncontrollable
 external disruptions.
 
+
 2.Goals of the Project
 
 The objective of this project is to develop a digital platform that protects gig worker income
@@ -50,6 +51,7 @@ Type of vehicle (bike, car, etc.)
 Weekly income through deliveries.
 The information workers provide us about themselves will be used for the purposes of
 assessing risk and setting the insurance premium.
+
 B. AI-Driven Risk Analysis
 In addition to the Workers' responses, the system performs analysis on a variety of external
 factors, including:
@@ -59,6 +61,7 @@ Pollution
 Traffic restrictions.
 Using the data from all four of these external risk factors, the AI calculates a risk score for
 each Worker and therefore what their weekly insurance premium should be.
+
 C. Weekly Insurance Product
 The product developed for the Workers to purchase is a weekly premium, to coincide with
 the Workers' earning cycle.
@@ -67,6 +70,7 @@ Basic Plan: ₹20/week (up to ₹2,000 coverage)
 Standard Plan: ₹25/week (up to ₹3,000 coverage)
 Premium Plan: ₹35/week (up to ₹5,000 coverage)
 Workers will choose a plan based on their income level.
+
 D. Disruption Detection
 The platform has contact with a number of external data sources on a constant basis
 including the following:
@@ -75,18 +79,21 @@ Traffic providers
 Local authorities that provide notification of emergencies
 When a disruption occurs in the worker's delivery area, it is detected by the platform
 automatically.
+
 E. Automatic Claim Trigger
 Once verification of a disruption has taken place, the platform will automatically:
 Detect that deliveries are down
 Estimate how many hours the worker has not received work
 Calculate how much the worker is out of pocket
 A claim is automatically created and does not require an employee to manually submit one.
+
 F. Instant Payout System
 When the claim is verified, the worker will receive payment through the following methods:
 UPI
 Bank transfer
 Digital wallet
 The worker can also download a receipt for payment from their dashboard.
+
 G. Fraud Detection
 Fraud detection using AI will help ensure that the system is not misused. The AI will
 accomplish this using the following audit processes:
@@ -94,7 +101,9 @@ GPS Location verification
 Weather event validation
 Duplicate claim detection
 Detection of anomalies in claims
+
 H. Dashboard and Analytics
+
 Worker Dashboard
 A worker can see the following information on their dashboard:
 Active insurance policy information
@@ -102,6 +111,7 @@ Weekly premiums
 Disruption alerts
 How many claims the worker has made
 Where the receipt for any payout is located
+
 Admin Dashboard
 An administrator can see the following on their dashboard:
 Total users
@@ -147,6 +157,8 @@ More Advanced Predictive Risk Models
 Additional Methods for Calculating Premiums
 Integration with Delivery Platform API's
 Multi-City Disruption Analysis
+
+
 To sum up, Gigshield is an effective and scalable way to provide support to Gig Workers
 who suffer a sudden loss of their income from external events being affected. The
 combination of AI-based Risk Assessment, Parametric Insurance Trigger Solutions and
