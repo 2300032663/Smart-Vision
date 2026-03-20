@@ -236,3 +236,8 @@ GigShield – AI-Powered Income Protection for Gig Workers
 9. Conclusion
 
  GigShield provides a practical and scalable solution to protect gig workers from sudden income loss caused by external disruptions. By combining AI-powered risk   assessment, parametric insurance triggers, and instant payouts, the platform ensures financial stability for workers who rely on daily deliveries for their        livelihood.
+
+
+
+ This is our prototype:
+ https://youtu.be/sfoiwxi1NGY?si=quSuei6kDecIeGVA
