@@ -40,6 +40,7 @@ These workers commonly earn on a daily or weekly basis, making their livelihoods
 vulnerable to sudden disruptions.
 
 4.Primary Features of the App
+
 A. Worker Sign-up
 Workers have to create an account on our site by providing the following information:
 Name and phone number
